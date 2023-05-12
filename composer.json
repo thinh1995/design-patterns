@@ -1,0 +1,24 @@
+{
+    "name": "lucifer/design-pattern",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^10.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "thinh1995\\Patterns\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "thinh1995",
+            "email": "cuongthinhtuan2006@gmail.com"
+        }
+    ],
+    "require": {}
+}
